@@ -202,35 +202,7 @@ All previous crop checks and reports are securely stored for future reference.
 👨‍💼 Government & NGO Integration – Direct access to schemes and advisories.
 
 ---
-## 👥 Team Members
 
-| 👤 Name & Profiles | 🏷️ Role |
-|-------------------|---------|
-| **🌿 Samruddhi Kulkarni**  <br> 🔗 [LinkedIn](https://www.linkedin.com/in/samrudhi-kulkarni-b85991251) · 💻 [GitHub](https://github.com/samrudhikulkarni05) | ![AI & Backend](https://img.shields.io/badge/AI%20%26%20Backend-1E88E5?style=flat&logo=google&logoColor=white) |
-| **🎨 Pramila Chandanshive**  <br> 🔗 [LinkedIn](https://www.linkedin.com/in/pramila-c-ab3103256) · 💻 [GitHub](https://github.com/PramilaChandanshive) | ![UI%2FUX%20%26%20Frontend](https://img.shields.io/badge/UI%2FUX%20%26%20Frontend-8E24AA?style=flat&logo=figma&logoColor=white) |
-| **⚛️ Rutuja Raut**  <br> 🔗 [LinkedIn](https://www.linkedin.com/in/rutuja-raut-7926a7256/) · 💻 [GitHub](https://github.com/rutujaraut730) | ![Frontend%20%26%20Research](https://img.shields.io/badge/Frontend%20%26%20Research-F4511E?style=flat&logo=react&logoColor=white) |
-| **🤖 Sakshi Tamshetti**  <br> 🔗 [LinkedIn](https://in.linkedin.com/in/sakshi-t-311123256) · 💻 [GitHub](https://github.com/SakshiTamshetti) | ![Chatbot%20%26%20Documentation](https://img.shields.io/badge/Chatbot%20%26%20Documentation-00897B?style=flat&logo=chatbot&logoColor=white) |
-
----
-## 🚀 Live Demo & AI Studio App
-
-<p align="center">
-  <a href="https://ai.studio/apps/drive/1BV03G7_e7-tnd-1wlRxgk5qvmR3-9TrE">
-    <img src="https://img.shields.io/badge/Google%20AI%20Studio-Live%20Demo-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-  <br><br>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60" alt="loading"/>
-</p>
-
-<p align="center">
-  ⚡ Click the badge above to open the AI Studio project
-</p>
-
-🔗 **AI Studio App Link**  
-👉 **[Open AI Studio Project](https://ai.studio/apps/drive/1BV03G7_e7-tnd-1wlRxgk5qvmR3-9TrE)**
-
-> ⚠️ **Note:** Please log in with the correct Google account to access the project.
----
 
 ## Conclusion
 
