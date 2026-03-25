@@ -208,6 +208,8 @@ All previous crop checks and reports are securely stored for future reference.
 
 AgroCare – Kisan Plant Doctor is an AI-powered farming assistant that helps farmers detect crop diseases, ask questions, and get weather-aware, local guidance through a simple, multilingual, and secure interface. It aims to cut crop losses today and evolve into a smart digital companion with voice support, mobile access, and real-time market and advisory updates.
 
+View our site in AI Studio: https://ai.studio/apps/drive/1BV03G7_e7-tnd-1wlRxgk5qvmR3-9TrE
+
 Enjoy the full-screen interactive experience! 🌿✨
 
 ### 🌾 Together, let's build Healthy Crops and Strong Farmers 🌱 
